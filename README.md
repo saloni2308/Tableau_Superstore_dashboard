@@ -16,7 +16,7 @@ Interactive Tableau dashboard analyzing sales, profit, and quantity trends from 
 - `dashboard-screenshot.png` – Snapshot of the dashboard
 
 ## 🔗 Preview
-View the dashboard on [Tableau Public](https://public.tableau.com/) *(Add your link here once uploaded)*
+View the dashboard on https://public.tableau.com/views/Tableau_Superstore_Dashboard_17547244566210/MainDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
