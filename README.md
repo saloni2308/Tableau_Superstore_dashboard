@@ -1,5 +1,8 @@
 # Tableau_Superstore_dashboard
 Interactive Tableau dashboard analyzing sales, profit, and quantity trends from the Sample Superstore dataset with regional, product, and customer insights.
+
+![Main Dashboard](MAIN.png)
+
 ## 📊 Key Features
 - 3 interactive dashboards: Main, Product, and Customer views
 - Visualizations include bar charts, maps, category trends, and KPI summaries
@@ -14,9 +17,6 @@ Interactive Tableau dashboard analyzing sales, profit, and quantity trends from 
 ## 📁 Files in This Repository
 - `Superstore_Sales_Dashboard.twbx` – Tableau packaged workbook
 - `MAIN.png` – Snapshot of the Main dashboard
-- 'CUSTOMER.png' - Snapshot of Customer Dashboard
-- 'PRODUCTA.png'- snapshot of Product Dashboard
-
 
 ## 🔗 Preview
 View the dashboard on https://public.tableau.com/views/Tableau_Superstore_Dashboard_17547244566210/MainDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
